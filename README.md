@@ -1,4 +1,5 @@
-# Automatización de Infraestructura II - Práctica 1
+# Automatización de Infraestructura II - Implementación de una infraestructura de red mediante Infraestructura 
+como Código
 
 * **Institución:** Universidad Tecnológica del Centro de Veracruz (UTCV)
 * **Campus:** Cuitláhuac
