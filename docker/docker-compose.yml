@@ -1,0 +1,9 @@
+FROM alpine:latest
+
+# Instalar herramientas de red y servidor web
+RUN apk add --no-network --no-cache bash curl iputils
+
+# Copiar configuración personalizada si aplica
+EXPOSE 80
+
+CMD ["tail", "-f", "/dev/null"]

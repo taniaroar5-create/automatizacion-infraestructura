@@ -1,0 +1,5 @@
+network_name   = "red_empresa_prod"
+network_subnet = "10.10.0.0/24"
+web_ip         = "10.10.0.10"
+app_ip         = "10.10.0.20"
+db_ip          = "10.10.0.30"
