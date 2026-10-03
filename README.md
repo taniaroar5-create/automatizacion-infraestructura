@@ -3,7 +3,8 @@ como Código
 
 * **Institución:** Universidad Tecnológica del Centro de Veracruz (UTCV)
 * **Campus:** Cuitláhuac
-* **Programa Educativo:** Ingeniería en Redes Inteligentes y Ciberseguridad (10A IRIC)
+* **Programa Educativo:** Ingeniería en Redes Inteligentes y Ciberseguridad
+* **Grupo:** 10A IRIC
 * **Materia:** Automatización de Infraestructura II
 * **Profesor:** Michel Orozco Carrera
 * **Presenta:** Tania Rojas Arévalo
